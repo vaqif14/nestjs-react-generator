@@ -14,6 +14,6 @@ node generate-query task
 
 need to config 
 
-generator.ts for path for api
+generator.ts for path to api
 
 You can also generate with openapi.json (react-query, @redux/toolkit)
